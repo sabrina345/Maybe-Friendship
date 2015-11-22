@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="MaybeFriendship" themeId="0" version="65540" templateID="SimpleProjectTemplate">
+  <MediaItems>
+    <MediaItem id="34" filePath="C:\Users\Sabrina\Desktop\3D\Storyboard\Schritt14.png" arWidth="372" arHeight="234" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="35" filePath="C:\Users\Sabrina\Desktop\3D\Storyboard\Schritt15.png" arWidth="373" arHeight="234" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="1" filePath="C:\Users\Sabrina\Desktop\Uni\MUSIK 3D\120349__cemagar__stomach-growl.mp3" arWidth="0" arHeight="0" duration="15.020408099999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="36" filePath="C:\Users\Sabrina\Desktop\3D\Storyboard\Schritt16.png" arWidth="374" arHeight="235" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="2" filePath="C:\Users\Sabrina\Desktop\Uni\MUSIK 3D\Heartwarming.mp3" arWidth="0" arHeight="0" duration="72.024000000000001" songTitle="Heartwarming" songArtist="Kevin MacLeod" songAlbum="Bright Piano" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="3" filePath="C:\Users\Sabrina\Desktop\Uni\MUSIK 3D\Your_Precious_Love.mp3" arWidth="0" arHeight="0" duration="202.55345" songTitle="Your Precious Love" songArtist="John Deley and the 41 Players" songAlbum="YouTube Audio Library" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="37" filePath="C:\Users\Sabrina\Desktop\3D\Storyboard\Schritt17.png" arWidth="372" arHeight="235" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="20" filePath="C:\Users\Sabrina\Desktop\3D\Storyboard\Schritt0.png" arWidth="371" arHeight="236" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="4" filePath="C:\Users\Sabrina\Desktop\Uni\MUSIK 3D\167385__ultradust__wood-block-tick-tock-cartoon-clock.mp3" arWidth="0" arHeight="0" duration="7.6799999999999997" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="38" filePath="C:\Users\Sabrina\Desktop\3D\Storyboard\Schritt18.png" arWidth="372" arHeight="236" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="21" filePath="C:\Users\Sabrina\Desktop\3D\Storyboard\Schritt1.png" arWidth="373" arHeight="235" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="5" filePath="C:\Users\Sabrina\Desktop\Uni\MUSIK 3D\148003__bewareofkites20__sneaking-around.mp3" arWidth="0" arHeight="0" duration="7.8628571000000003" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="22" filePath="C:\Users\Sabrina\Desktop\3D\Storyboard\Schritt2.png" arWidth="373" arHeight="236" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="6" filePath="C:\Users\Sabrina\Desktop\Uni\MUSIK 3D\33369__herbertboland__mouthpop.mp3" arWidth="0" arHeight="0" duration="0.31346930000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="23" filePath="C:\Users\Sabrina\Desktop\3D\Storyboard\Schritt3.png" arWidth="372" arHeight="235" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="7" filePath="C:\Users\Sabrina\Desktop\Uni\MUSIK 3D\277447__shadydave__alone.mp3" arWidth="0" arHeight="0" duration="44.042450000000002" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="41" filePath="C:\Users\Sabrina\Desktop\Uni\MUSIK 3D\Tree_Fall_Small-Daniel_Simion-1639156552.mp3" arWidth="0" arHeight="0" duration="6.4783673000000004" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="24" filePath="C:\Users\Sabrina\Desktop\3D\Storyboard\Schritt4.png" arWidth="371" arHeight="235" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="8" filePath="C:\Users\Sabrina\Desktop\Uni\MUSIK 3D\Carefree.mp3" arWidth="0" arHeight="0" duration="205.139625" songTitle="Carefree" songArtist="Kevin MacLeod" songAlbum="Royalty Free" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="25" filePath="C:\Users\Sabrina\Desktop\3D\Storyboard\Schritt5.png" arWidth="371" arHeight="235" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="9" filePath="C:\Users\Sabrina\Desktop\Uni\MUSIK 3D\50725__rutgermuller__footsteps-on-tiles.mp3" arWidth="0" arHeight="0" duration="24.215510200000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="26" filePath="C:\Users\Sabrina\Desktop\3D\Storyboard\Schritt6.png" arWidth="370" arHeight="230" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="10" filePath="C:\Users\Sabrina\Desktop\Uni\MUSIK 3D\Dragon Bite-SoundBible.com-1625781385.mp3" arWidth="0" arHeight="0" duration="2.0636733999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="27" filePath="C:\Users\Sabrina\Desktop\3D\Storyboard\Schritt7.png" arWidth="374" arHeight="236" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="11" filePath="C:\Users\Sabrina\Desktop\Uni\MUSIK 3D\Hitman.mp3" arWidth="0" arHeight="0" duration="200.82939999999999" songTitle="Hitman" songArtist="Kevin MacLeod" songAlbum="Royalty Free" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="28" filePath="C:\Users\Sabrina\Desktop\3D\Storyboard\Schritt8.png" arWidth="372" arHeight="236" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="12" filePath="C:\Users\Sabrina\Desktop\Uni\MUSIK 3D\Sniff Long-SoundBible.com-1298041453.mp3" arWidth="0" arHeight="0" duration="5.7208163000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="29" filePath="C:\Users\Sabrina\Desktop\3D\Storyboard\Schritt9.png" arWidth="372" arHeight="234" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="13" filePath="C:\Users\Sabrina\Desktop\Uni\MUSIK 3D\213437__taira-komori__surprise.mp3" arWidth="0" arHeight="0" duration="0.98399999999999999" songTitle="" songArtist="(c)Taira Komori" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="30" filePath="C:\Users\Sabrina\Desktop\3D\Storyboard\Schritt10.png" arWidth="374" arHeight="237" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="14" filePath="C:\Users\Sabrina\Desktop\Uni\MUSIK 3D\238258__childproof-food__teeth-chattering.mp3" arWidth="0" arHeight="0" duration="6.7918367000000002" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="31" filePath="C:\Users\Sabrina\Desktop\3D\Storyboard\Schritt11.png" arWidth="374" arHeight="236" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="15" filePath="C:\Users\Sabrina\Desktop\Uni\MUSIK 3D\Heart_of_Nowhere.mp3" arWidth="0" arHeight="0" duration="172.32977500000001" songTitle="Heart of Nowhere" songArtist="Kevin MacLeod" songAlbum="YouTube Audio Library" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="32" filePath="C:\Users\Sabrina\Desktop\3D\Storyboard\Schritt12.png" arWidth="372" arHeight="235" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="16" filePath="C:\Users\Sabrina\Desktop\Uni\MUSIK 3D\169932__setuniman__slow-introduction-0t22m.mp3" arWidth="0" arHeight="0" duration="56.032666599999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="33" filePath="C:\Users\Sabrina\Desktop\3D\Storyboard\Schritt13.png" arWidth="373" arHeight="233" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+  </MediaItems>
+  <Extents>
+    <AudioClip extentID="160" gapBefore="0.3124995231628418" mediaItemID="9" inTime="2.7100000000000009" outTime="5.1287500000000001" speed="1">
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="10" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="2.5" />
+          </BoundProperties>
+        </AudioEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="0.17254902422428131" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="161" gapBefore="-0.86208333333333087" mediaItemID="4" inTime="0.17916666666666714" outTime="2.5270852406819699" speed="1">
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="0" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="10" />
+          </BoundProperties>
+        </AudioEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="0.49411767721176147" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="162" gapBefore="-0.055833492279052876" mediaItemID="16" inTime="4.9333333333333336" outTime="7.9333333333333336" speed="1">
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="10" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="10" />
+          </BoundProperties>
+        </AudioEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="0.20392158627510071" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="56" gapBefore="0" mediaItemID="5" inTime="0.23333333333333428" outTime="2.8666666666666671" speed="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="58" gapBefore="0.68332951863606439" mediaItemID="6" inTime="0" outTime="0" speed="1">
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="10" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="10" />
+          </BoundProperties>
+        </AudioEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="0.49411767721176147" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="59" gapBefore="0.17916762034098355" mediaItemID="4" inTime="0.17916666666666714" outTime="3.009999999999998" speed="1">
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="10" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="0" />
+          </BoundProperties>
+        </AudioEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="0.49411767721176147" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="7" gapBefore="0.083333492279052734" mediaItemID="41" inTime="0.33333333333333304" outTime="0.78333317438761352" speed="1">
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="10" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="10" />
+          </BoundProperties>
+        </AudioEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="0.086274512112140656" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="114" gapBefore="0" mediaItemID="4" inTime="0" outTime="3.009999999999998" speed="1">
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="10" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="10" />
+          </BoundProperties>
+        </AudioEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="8" gapBefore="-0.11666682561238595" mediaItemID="41" inTime="0.78333317438761352" outTime="1.2433333333333341" speed="1">
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="2.5" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="10" />
+          </BoundProperties>
+        </AudioEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="0.031372550874948502" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="9" gapBefore="0.26875047683715891" mediaItemID="1" inTime="0" outTime="2.4691661898295081" speed="1">
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="10" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="10" />
+          </BoundProperties>
+        </AudioEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="0.49411767721176147" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="10" gapBefore="-0.43791571299234988" mediaItemID="1" inTime="5.8691661898295084" outTime="6.7233323796590181" speed="1">
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="5" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="10" />
+          </BoundProperties>
+        </AudioEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="0.49411767721176147" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="65" gapBefore="0.02333333333333254" mediaItemID="41" inTime="0" outTime="0.33333333333333304" speed="1">
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="2.5" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="10" />
+          </BoundProperties>
+        </AudioEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="0.11764706671237946" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="66" gapBefore="-0.10833333333333339" mediaItemID="41" inTime="0.37916650772094762" outTime="0.60416634877522846" speed="1">
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="2.5" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="2.5" />
+          </BoundProperties>
+        </AudioEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="0.054901964962482452" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="13" gapBefore="0.033333333333334991" mediaItemID="3" inTime="3.7087500000000002" outTime="9.7087500000000002" speed="1">
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="10" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="10" />
+          </BoundProperties>
+        </AudioEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="0.49411767721176147" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="67" gapBefore="0.06666666666666643" mediaItemID="41" inTime="0.60416634877522846" outTime="1.2433333333333341" speed="1">
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="10" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="10" />
+          </BoundProperties>
+        </AudioEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="0.11764706671237946" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="123" gapBefore="0" mediaItemID="7" inTime="4.0437502384185802" outTime="9.0358328564961763" speed="1">
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="10" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="10" />
+          </BoundProperties>
+        </AudioEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </AudioClip>
+    <ImageClip extentID="17" gapBefore="0" mediaItemID="20" duration="3">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <AudioClip extentID="75" gapBefore="0.32291714350382605" mediaItemID="8" inTime="0" outTime="2.8104161898295068" speed="1">
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="10" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="10" />
+          </BoundProperties>
+        </AudioEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="0.49411767721176147" />
+      </BoundProperties>
+    </AudioClip>
+    <ImageClip extentID="24" gapBefore="0" mediaItemID="21" duration="3">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <AudioClip extentID="78" gapBefore="0.49903260734863153" mediaItemID="9" inTime="2.3333333333333357" outTime="5.4000000000000057" speed="1">
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="10" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="2.5" />
+          </BoundProperties>
+        </AudioEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="0.49411767721176147" />
+      </BoundProperties>
+    </AudioClip>
+    <ImageClip extentID="25" gapBefore="0" mediaItemID="22" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="26" gapBefore="0" mediaItemID="23" duration="3">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <AudioClip extentID="80" gapBefore="0.21666666666666501" mediaItemID="10" inTime="0" outTime="0.39999999999999858" speed="1">
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="10" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="2.5" />
+          </BoundProperties>
+        </AudioEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="0.49411767721176147" />
+      </BoundProperties>
+    </AudioClip>
+    <ImageClip extentID="27" gapBefore="0" mediaItemID="24" duration="3">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="28" gapBefore="0" mediaItemID="25" duration="3">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="29" gapBefore="0" mediaItemID="26" duration="3">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="30" gapBefore="0" mediaItemID="27" duration="3">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <AudioClip extentID="138" gapBefore="0.068750000000001421" mediaItemID="7" inTime="5.6620823796590081" outTime="8.6704147593180245" speed="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="0.49411767721176147" />
+      </BoundProperties>
+    </AudioClip>
+    <ImageClip extentID="32" gapBefore="0" mediaItemID="28" duration="3">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <AudioClip extentID="139" gapBefore="0.1520814259846972" mediaItemID="7" inTime="5.6620823796590081" outTime="8.4433342870076409" speed="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="0.49411767721176147" />
+      </BoundProperties>
+    </AudioClip>
+    <ImageClip extentID="33" gapBefore="0" mediaItemID="29" duration="3">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <AudioClip extentID="140" gapBefore="0" mediaItemID="15" inTime="0.8666666666666667" outTime="6.8666666666666671" speed="1">
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="10" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="10" />
+          </BoundProperties>
+        </AudioEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="0.49411767721176147" />
+      </BoundProperties>
+    </AudioClip>
+    <ImageClip extentID="34" gapBefore="0" mediaItemID="30" duration="3">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="35" gapBefore="0" mediaItemID="31" duration="3">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="36" gapBefore="0" mediaItemID="32" duration="3">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="37" gapBefore="0" mediaItemID="33" duration="3">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="38" gapBefore="0" mediaItemID="34" duration="3">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="39" gapBefore="0" mediaItemID="35" duration="3">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="40" gapBefore="0" mediaItemID="36" duration="3">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="41" gapBefore="0" mediaItemID="37" duration="3">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="42" gapBefore="0" mediaItemID="38" duration="3">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <AudioClip extentID="97" gapBefore="0.11458333333333215" mediaItemID="12" inTime="0.19999999999999929" outTime="3.0333333333333314" speed="1">
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="10" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="10" />
+          </BoundProperties>
+        </AudioEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="0.49411767721176147" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="100" gapBefore="0.96874809265136719" mediaItemID="13" inTime="0" outTime="0" speed="1">
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="10" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="10" />
+          </BoundProperties>
+        </AudioEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="0.49411767721176147" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="102" gapBefore="1.0472519073486311" mediaItemID="2" inTime="0" outTime="6.2166685740153014" speed="1">
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="10" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="10" />
+          </BoundProperties>
+        </AudioEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="0.49411767721176147" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="51" gapBefore="0.28125" mediaItemID="5" inTime="0.23333333333333428" outTime="2.2666666666666693" speed="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="0.49411767721176147" />
+      </BoundProperties>
+    </AudioClip>
+    <ExtentSelector extentID="1" gapBefore="0" primaryTrack="true">
+      <Effects />
+      <Transitions />
+      <BoundProperties />
+      <ExtentRefs>
+        <ExtentRef id="17" />
+        <ExtentRef id="24" />
+        <ExtentRef id="25" />
+        <ExtentRef id="26" />
+        <ExtentRef id="27" />
+        <ExtentRef id="28" />
+        <ExtentRef id="29" />
+        <ExtentRef id="30" />
+        <ExtentRef id="32" />
+        <ExtentRef id="33" />
+        <ExtentRef id="34" />
+        <ExtentRef id="35" />
+        <ExtentRef id="36" />
+        <ExtentRef id="37" />
+        <ExtentRef id="38" />
+        <ExtentRef id="39" />
+        <ExtentRef id="40" />
+        <ExtentRef id="41" />
+        <ExtentRef id="42" />
+      </ExtentRefs>
+    </ExtentSelector>
+    <ExtentSelector extentID="2" gapBefore="0" primaryTrack="false">
+      <Effects />
+      <Transitions />
+      <BoundProperties />
+      <ExtentRefs>
+        <ExtentRef id="140" />
+        <ExtentRef id="7" />
+        <ExtentRef id="8" />
+        <ExtentRef id="65" />
+        <ExtentRef id="66" />
+        <ExtentRef id="67" />
+        <ExtentRef id="162" />
+        <ExtentRef id="160" />
+        <ExtentRef id="9" />
+        <ExtentRef id="10" />
+        <ExtentRef id="97" />
+        <ExtentRef id="75" />
+        <ExtentRef id="13" />
+        <ExtentRef id="51" />
+        <ExtentRef id="80" />
+        <ExtentRef id="138" />
+        <ExtentRef id="59" />
+        <ExtentRef id="161" />
+        <ExtentRef id="58" />
+        <ExtentRef id="78" />
+        <ExtentRef id="139" />
+        <ExtentRef id="100" />
+        <ExtentRef id="102" />
+      </ExtentRefs>
+    </ExtentSelector>
+    <ExtentSelector extentID="3" gapBefore="0" primaryTrack="false">
+      <Effects />
+      <Transitions />
+      <BoundProperties />
+      <ExtentRefs />
+    </ExtentSelector>
+    <ExtentSelector extentID="4" gapBefore="0" primaryTrack="false">
+      <Effects />
+      <Transitions />
+      <BoundProperties />
+      <ExtentRefs />
+    </ExtentSelector>
+  </Extents>
+  <BoundPlaceholders>
+    <BoundPlaceholder placeholderID="SingleExtentView" extentID="0" />
+    <BoundPlaceholder placeholderID="Main" extentID="1" />
+    <BoundPlaceholder placeholderID="SoundTrack" extentID="2" />
+    <BoundPlaceholder placeholderID="Text" extentID="4" />
+    <BoundPlaceholder placeholderID="Narration" extentID="3" />
+  </BoundPlaceholders>
+  <BoundProperties>
+    <BoundPropertyFloatSet Name="AspectRatio">
+      <BoundPropertyFloatElement Value="1.7777776718139648" />
+    </BoundPropertyFloatSet>
+    <BoundPropertyFloat Name="DuckedNarrationAndSoundTrackMix" Value="1" />
+    <BoundPropertyFloat Name="DuckedVideoAndNarrationMix" Value="0.5" />
+    <BoundPropertyFloat Name="DuckedVideoAndSoundTrackMix" Value="1" />
+    <BoundPropertyFloat Name="SoundTrackMix" Value="1" />
+  </BoundProperties>
+  <ThemeOperationLog themeID="0">
+    <MonolithicThemeOperations />
+  </ThemeOperationLog>
+  <AudioDuckingProperties emphasisPlaceholderID="Narration" />
+</Project>
